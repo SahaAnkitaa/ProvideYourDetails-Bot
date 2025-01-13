@@ -2,9 +2,9 @@
   "name": "nodejs",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",                     // Ensure this file exists in your project root
+  "main": "index.js",
   "scripts": {
-    "start": "node index.js",             // Add start script here
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
